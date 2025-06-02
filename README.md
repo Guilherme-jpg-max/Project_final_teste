@@ -21,6 +21,13 @@ Ainda em fase desenvolvimento.
 
 ---
 
+### Instruções dentro de jogo
+ Espaço - Pula
+ Seta esquerda vai para esquesda
+ Seta Para direita vai para direita
+ Z - Ataca
+ P - Pause
+
 ## 📦 Requisitos do Projeto
 
 - Python 3.7+
