@@ -1,0 +1,4 @@
+Bem, primeiramente gostaria de agradecer a oportunidade de está fazendo esse teste,
+fui um desafio e tanto desenvolver esse game e o game do scratch, apesar do tempo corrido e não ter dado tempo finalizar estou bem feliz com o meu resultado. Foram três dias programando, vendo cursos e documentações, durante quase 13 horas diárias, mas conseguir mostrar um pouco do meu conhecimento na linguagem python, gostaria de mais tempo para terminar e deixar o jogo mais organizado, mas infelizmente o tempo e corrido rs. Conseguir entregar um projeto funcional que atende a práticamente todos os requisitos, infelizmente com algumas inperfeições, e alguns bugs que eu gostaria ter tido mais tempo para resolver, mas é isso.
+Experiência muito boa que concerteza vou levar para minha carreira como desenvolvedor, o projeto não para vou continuar a desenvolve-lo e deixa-lo melhor e mais organizado.
+Teste prático de python concluido.
